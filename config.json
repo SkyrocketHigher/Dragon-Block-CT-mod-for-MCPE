@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": false,
+      "texture": true,
       "skin": true,
       "more": false,
       
@@ -55,13 +55,37 @@
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+    "name": "Fixed Player Animation (Beta 0.0.0)",
+    "role": "Have you ever been sick of Bedrock Edition's broken animations? This resource pack will fix the player animations! We'll keep trying to fix as many bugs as we can!Note: There may be a few bugs that are not currently present in vanilla. If you find a bug, we'd appreciate it if you'd contact us right away!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/anime/6/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/anime/6/kurisan_fox_fixed_player_ani.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/anime/6/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/anime/6/1.png"
+  },
+  {
+    "name": "Custom Death Entities 2021 | Minecraft Addon (B)",
+    "role": "Are you bored with Minecraft death Animation? Let me introduce you my new addon: 'Custom Death Entities Animatio'. This addon adds new animations when the Animals, Mobs or Monsters killed by player. Maybe some of you already know about this addon. This is my old addon from the past, created for Minecraft 1.12 - 1.13. Since Minecraft updated to the newest Version, some of features in this addon not working anymore and causing lot of bugs. But now, im decided to 'Remake & Rewrite' this addon to make it compatible with the newest Minecraft Version which have new format code version. If you didnt know about this addon.. This addon give an unique animations when you kill an entities in Minecraft",
+    "image": "https://kossandroid.com/Data Android/Minecraft/anime/8/2.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/anime/8/CDE_2021_v2_B.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/anime/8/1.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/anime/8/1.jpeg"
+  },
+  {
+    "name": "Custom Death Entities 2021 | Minecraft Addon (R)",
+    "role": "Are you bored with Minecraft death Animation? Let me introduce you my new addon: 'Custom Death Entities Animatio'. This addon adds new animations when the Animals, Mobs or Monsters killed by player. Maybe some of you already know about this addon. This is my old addon from the past, created for Minecraft 1.12 - 1.13. Since Minecraft updated to the newest Version, some of features in this addon not working anymore and causing lot of bugs. But now, im decided to 'Remake & Rewrite' this addon to make it compatible with the newest Minecraft Version which have new format code version. If you didnt know about this addon.. This addon give an unique animations when you kill an entities in Minecraft",
+    "image": "https://kossandroid.com/Data Android/Minecraft/anime/8/2.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/anime/8/CDE_2021_v2_R.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/anime/8/1.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/anime/8/1.jpeg"
+  },
+  {
+    "name": "Leaf's Mobber Mobs",
+    "role": "Mobbier mobs is a pack that 3D-ifies default mobs, including pigs, cows, bees, chickens, skeletons, and spiders, as well as gives them better animations. Easy to edit, customise, and integrate into your own packs.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/anime/9/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/anime/9/Leafs-Mobber-Mobs.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/anime/9/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/anime/9/1.png"
+  }
   ],
   "Skins": [
     {
